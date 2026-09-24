@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 ## 📝 Últimos posts do blog
 
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - ia-no-desenvolvimento-front-end.html](https://engenhariadesoftwarebossle.blogspot.com/2026/09/ia-no-desenvolvimento-front-end.html)
-- [[No Title] - do-rugby-2023-ao-rugby-2026-evolucao-da.html](https://engenhariadesoftwarebossle.blogspot.com/2026/09/do-rugby-2023-ao-rugby-2026-evolucao-da.html)
+- [IA no desenvolvimento Front End: automação, eficiência e responsabilidade técnica](https://engenhariadesoftwarebossle.blogspot.com/2026/09/ia-no-desenvolvimento-front-end.html)
+- [Do Rugby 2023 ao Rugby 2026: evolução da arquitetura Front End com a CAFFE](https://engenhariadesoftwarebossle.blogspot.com/2026/09/do-rugby-2023-ao-rugby-2026-evolucao-da.html)
 <!-- BLOG-POST-LIST:END -->
