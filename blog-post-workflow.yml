@@ -1,0 +1,26 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Executa uma vez por dia, às 09:00 UTC (~06:00 em Santa Catarina, UTC-3)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # permite disparo manual pela aba Actions
+
+permissions:
+  contents: write # necessário para o workflow commitar a mudança no README
+
+jobs:
+  update-readme-with-blog:
+    name: Atualiza o README com os últimos posts do blog
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://engenhariadesoftwarebossle.blogspot.com/feeds/posts/default?alt=rss"
+          max_post_count: 5
+          readme_path: "./README.md"
+          commit_message: "docs(readme): atualiza últimos posts do blog"
