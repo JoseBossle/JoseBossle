@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 ## 📝 Últimos posts do blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PARTE 1: A Ilusão da Simplicidade nas Interfaces Modernas](https://engenhariadesoftwarebossle.blogspot.com/2026/10/parte-1-ilusao-da-simplicidade-nas.html)
 - [Do funciona na minha máquina ao está no ar: uma pequena automação para quem cria projetos](https://engenhariadesoftwarebossle.blogspot.com/2026/09/do-funciona-na-minha-maquina-ao-esta-no.html)
 - [Automação de Software: quando a complexidade desaparece para o usuário](https://engenhariadesoftwarebossle.blogspot.com/2026/09/automacao-de-software-quando.html)
 - [IA no desenvolvimento Front End: automação, eficiência e responsabilidade técnica](https://engenhariadesoftwarebossle.blogspot.com/2026/09/ia-no-desenvolvimento-front-end.html)
